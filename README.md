@@ -3,3 +3,6 @@
 
 Сервер лежит здесь:
 https://github.com/Vairiscw/weather-simulation-system-server
+
+Android здесь:
+https://github.com/Vairiscw/weather-simulation-system-android
